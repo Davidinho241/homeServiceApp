@@ -1,0 +1,617 @@
+[
+    {
+        "id": "1",
+        "name": "Sir Joan Hotel",
+        "location": "Ibiza Town",
+        "full_location": "Passeig Joan Carles I, 07800 Ibiza Town, Spain",
+        "price": 100,
+        "discount_price": 180,
+        "discount_text": "20% off",
+        "rating": "4.4",
+        "thumbnail": "https://cf.bstatic.com/images/hotel/max1280x900/110/110290594.jpg",
+        "pictures": [
+            {
+                "id": "1",
+                "url": "https://cf.bstatic.com/images/hotel/max1280x900/148/148448579.jpg",
+                "caption": "Lorem ipsum dolor sit amet"
+            },
+            {
+                "id": "2",
+                "url": "https://cf.bstatic.com/images/hotel/max1280x900/148/148448522.jpg",
+                "caption": "consectetur adipiscing elit"
+            },
+            {
+                "id": "3",
+                "url": "https://cf.bstatic.com/images/hotel/max1280x900/148/148448527.jpg",
+                "caption": "sed do eiusmod tempor incididunt"
+            },
+            {
+                "id": "4",
+                "url": "https://cf.bstatic.com/images/hotel/max1280x900/148/148448530.jpg",
+                "caption": "ut labore et dolore magna aliqua"
+            },
+            {
+                "id": "5",
+                "url": "https://cf.bstatic.com/images/hotel/max1280x900/148/148448519.jpg",
+                "caption": "Ut enim ad minim veniam"
+            }
+        ],
+        "reviews": [
+            {
+                "id": "1",
+                "avatar": "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png",
+                "name": "Sulaiman",
+                "comment": "Salah satu pengalaman hotel terbaik yang pernah ada! Staf di hotel membuat masa tinggal yang sangat menyenangkan dengan senyum mereka sejak kami tiba sampai kami pergi.",
+                "created_at": "2020-05-21"
+            },
+            {
+                "id": "2",
+                "avatar": "https://graph.facebook.com/v2.9/520215322/picture?type=square&height=64&width=64",
+                "name": "Korab",
+                "comment": "Restoran Izakaya sejauh ini adalah salah satu yang terbaik di Ibiza. Dan juga burger dan milkshake The Butcher setelah pesta Anda luar biasa.",
+                "created_at": "2020-06-10"
+            },
+            {
+                "id": "3",
+                "avatar": "https://graph.facebook.com/v2.9/10210714770444935/picture?type=square&height=64&width=64",
+                "name": "Ana",
+                "comment": "Layanan di Sir Joan luar biasa. Tim yang bagus! Kamar tidur standar kecil dan tanpa pemandangan dan itu yang menurut saya kurang menarik.",
+                "created_at": "2020-07-12"
+            },
+            {
+                "id": "4",
+                "avatar": "https://cf.bstatic.com/static/img/review/avatars/ava-v/b56c632712cb151966e9192b3547e7b673216aa6.png",
+                "name": "Valerie",
+                "comment": "Saya terkesan dengan layanan pelanggan yang luar biasa! Dari orang pertama sampai yang terakhir sangat ramah sepanjang waktu. Saya sering bepergian dan saya belum pernah mengalami level itu sebelumnya.",
+                "created_at": "2020-08-01"
+            },
+            {
+                "id": "5",
+                "avatar": "https://cf.bstatic.com/static/img/review/avatars/ava-o/ecc2e23c1dd875ae18fc261d4a08d35f71db9440.png",
+                "name": "Olivia",
+                "comment": "Segala sesuatu. Kamar yang indah dengan pemandangan kota tua Ibiza yang menakjubkan. Kami benar-benar dimanjakan ketika kami sampai di sana. Senang memiliki speaker Bluetooth B&O & perpustakaan mini di dalam ruangan.",
+                "created_at": "2020-08-12"
+            }
+        ],
+        "rooms": [
+            {
+                "id": "1",
+                "name": "Kamar Standard Double",
+                "bed": "1 tempat tidur queen",
+                "description": "Harga adalah per suite per 9 malam Termasuk: PPN 10%",
+                "price": 80,
+                "facilities": [
+                    "Perlengkapan mandi gratis",
+                    "Mandi",
+                    "Aman",
+                    "Bidet",
+                    "Toilet",
+                    "Handuk",
+                    "Linens",
+                    "Meja tulis",
+                    "TV",
+                    "Pemanas Air",
+                    "Pengering rambut",
+                    "Ketel listrik"
+                ]
+            }
+        ],
+        "facilities": [
+            {
+                "name": "Kolam renang",
+                "icon": "swim"
+            },
+            {
+                "name": "Kamar bebas rokok",
+                "icon": "no_smoking"
+            },
+            {
+                "name": "Parking Area",
+                "icon": "parking"
+            },
+            {
+                "name": "Sarapan",
+                "icon": "breakfast"
+            },
+            {
+                "name": "WiFi di semua area",
+                "icon": "wifi"
+            }
+        ],
+        "description": "Terletak di Kota Ibiza, 400 m dari Pacha, Sir Joan Hotel memiliki kamar-kamar ber-AC dengan Wi-Fi gratis di seluruh properti. Para tamu dapat menikmati bar di tempat dan kolam renang luar ruangan. \nSemua kamar memiliki TV layar datar. Unit-unit tertentu memiliki area tempat duduk untuk Anda bersantai. Nikmati secangkir kopi dari teras atau balkon Anda. Kamar-kamarnya dilengkapi dengan kamar mandi pribadi yang dilengkapi dengan Mandi. Fasilitas tambahannya termasuk jubah mandi, sandal, dan Perlengkapan mandi gratis. \nAnda akan menemukan meja depan 24 jam di properti. Sarapan à la carte tersedia dari November sampai Maret dengan biaya tambahan. \n Hotel ini juga menawarkan penyewaan sepeda. Marina Botafoch berjarak 400 m dari Sir Joan Hotel, sementara Dalt Vila terletak sejauh 400 m. Bandara terdekat adalah Bandara Ibiza, 8 km dari Sir Joan Hotel. \nPasangan paling suka lokasinya - mereka memberi nilai 8,7 untuk perjalanan dua orang. \nKami berbicara bahasa Anda!",
+        "latitude": 38.922120,
+        "longitude": 1.424070
+    },
+    {
+        "id": "2",
+        "name": "Axel San Sebastián",
+        "location": "San Sebastián",
+        "full_location": "26 Amara Kalea, 20006 San Sebastián, Spain",
+        "price": 180,
+        "discount_price": 280,
+        "discount_text": "12% off",
+        "rating": "4.2",
+        "thumbnail": "https://cf.bstatic.com/images/hotel/max1280x900/230/230441446.jpg",
+        "pictures": [
+            {
+                "id": "1",
+                "url": "https://cf.bstatic.com/images/hotel/max1280x900/230/230441427.jpg",
+                "caption": "Lorem ipsum dolor sit amet"
+            },
+            {
+                "id": "2",
+                "url": "https://cf.bstatic.com/images/hotel/max1280x900/230/230441442.jpg",
+                "caption": "consectetur adipiscing elit"
+            },
+            {
+                "id": "3",
+                "url": "https://cf.bstatic.com/images/hotel/max1280x900/230/230441561.jpg",
+                "caption": "sed do eiusmod tempor incididunt"
+            },
+            {
+                "id": "4",
+                "url": "https://cf.bstatic.com/images/hotel/max1280x900/230/230441603.jpg",
+                "caption": "ut labore et dolore magna aliqua"
+            },
+            {
+                "id": "5",
+                "url": "https://cf.bstatic.com/images/hotel/max1280x900/230/230441557.jpg",
+                "caption": "Ut enim ad minim veniam"
+            }
+        ],
+        "reviews": [
+            {
+                "id": "1",
+                "avatar": "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png",
+                "name": "Sulaiman",
+                "comment": "One of the beat hotel experiences ever! The staff at the hotel made it a very pleasant stay with their smile since we arrived until we left.",
+                "created_at": "2020-05-21"
+            },
+            {
+                "id": "2",
+                "avatar": "https://graph.facebook.com/v2.9/520215322/picture?type=square&height=64&width=64",
+                "name": "Korab",
+                "comment": "The restaurant Izakaya by far is one of the best in Ibiza. And also The Butcher burgers and milkshakes after you party are amazing.",
+                "created_at": "2020-06-10"
+            },
+            {
+                "id": "3",
+                "avatar": "https://graph.facebook.com/v2.9/10210714770444935/picture?type=square&height=64&width=64",
+                "name": "Ana",
+                "comment": "The service at Sir Joan is just wonderful. Such a nice team! The standard bedrooms are small and with no view and that was what I found less interesting.",
+                "created_at": "2020-07-12"
+            },
+            {
+                "id": "4",
+                "avatar": "https://cf.bstatic.com/static/img/review/avatars/ava-v/b56c632712cb151966e9192b3547e7b673216aa6.png",
+                "name": "Valerie",
+                "comment": "I was impressed with the outstanding customer service! From the first person till the last were so friendly at all times. I travel a lot and I have never experienced that level before.",
+                "created_at": "2020-08-01"
+            },
+            {
+                "id": "5",
+                "avatar": "https://cf.bstatic.com/static/img/review/avatars/ava-o/ecc2e23c1dd875ae18fc261d4a08d35f71db9440.png",
+                "name": "Olivia",
+                "comment": "Everything. Beautiful room with a stunning view of Ibiza old town. We were totally spoilt when we got there. Loved having the Bluetooth B&O speaker & mini library in the room.",
+                "created_at": "2020-08-12"
+            }
+        ],
+        "rooms": [
+            {
+                "id": "1",
+                "name": "Kamar Standard Double",
+                "bed": "1 queen bed",
+                "description": "Harga adalah per suite per 9 malam Termasuk: PPN 10%",
+                "price": 80,
+                "facilities": [
+                    "Perlengkapan mandi gratis",
+                    "Mandi",
+                    "Aman",
+                    "Bidet",
+                    "Toilet",
+                    "Handuk",
+                    "Linens",
+                    "Meja tulis",
+                    "TV",
+                    "Pemanas Air",
+                    "Pengering rambut",
+                    "Ketel listrik"
+                ]
+            }
+        ],
+        "facilities": [
+            {
+                "name": "Swimming Pool",
+                "icon": "swim"
+            },
+            {
+                "name": "Kamar bebas rokok",
+                "icon": "no_smoking"
+            },
+            {
+                "name": "Parking Area",
+                "icon": "parking"
+            },
+            {
+                "name": "Sarapan",
+                "icon": "breakfast"
+            },
+            {
+                "name": "WiFi di semua area",
+                "icon": "wifi"
+            }
+        ],
+        "description": "Located in Ibiza Town, 400 m from Pacha, Sir Joan Hotel features air-conditioned rooms with free WiFi throughout the property. Guests can enjoy the on-site bar and outdoor pool.\nAll rooms include a flat-screen TV. Certain units include a seating area where you can relax. Enjoy a cup of coffee from your terrace or balcony. The rooms come with a private bathroom fitted with a Mandi. Extras include bathrobes, slippers and Perlengkapan mandi gratis.\nYou will find a 24-hour front desk at the property. An à la carte breakfast is available from November to March for an extra cost.\nThe hotel also offers bike hire. Marina Botafoch is 400 m from Sir Joan Hotel, while Dalt Vila is 400 m from the property. The nearest airport is Ibiza Airport, 5 mi from Sir Joan Hotel.\nCouples in particular like the location – they rated it 8.7 for a two-person trip.\nWe speak your language!",
+        "latitude": 28.031650,
+        "longitude": -17.189440
+    },
+    {
+        "id": "3",
+        "name": "Hotel Arima",
+        "location": "San Sebastián",
+        "full_location": "Paseo de Miramon 162, 20014 San Sebastián, Spain",
+        "price": 50,
+        "discount_price": 90,
+        "discount_text": "30% off",
+        "rating": "4.7",
+        "thumbnail": "https://cf.bstatic.com/images/hotel/max1280x900/156/156399805.jpg",
+        "pictures": [
+            {
+                "id": "1",
+                "url": "https://cf.bstatic.com/images/hotel/max1280x900/132/132142224.jpg",
+                "caption": "Lorem ipsum dolor sit amet"
+            },
+            {
+                "id": "2",
+                "url": "https://cf.bstatic.com/images/hotel/max1280x900/168/168032746.jpg",
+                "caption": "consectetur adipiscing elit"
+            },
+            {
+                "id": "3",
+                "url": "https://cf.bstatic.com/images/hotel/max1280x900/213/213277781.jpg",
+                "caption": "sed do eiusmod tempor incididunt"
+            },
+            {
+                "id": "4",
+                "url": "https://cf.bstatic.com/images/hotel/max1280x900/159/159458361.jpg",
+                "caption": "ut labore et dolore magna aliqua"
+            },
+            {
+                "id": "5",
+                "url": "https://cf.bstatic.com/images/hotel/max1280x900/137/137138658.jpg",
+                "caption": "Ut enim ad minim veniam"
+            }
+        ],
+        "reviews": [
+            {
+                "id": "1",
+                "avatar": "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png",
+                "name": "Sulaiman",
+                "comment": "One of the beat hotel experiences ever! The staff at the hotel made it a very pleasant stay with their smile since we arrived until we left.",
+                "created_at": "2020-05-21"
+            },
+            {
+                "id": "2",
+                "avatar": "https://graph.facebook.com/v2.9/520215322/picture?type=square&height=64&width=64",
+                "name": "Korab",
+                "comment": "The restaurant Izakaya by far is one of the best in Ibiza. And also The Butcher burgers and milkshakes after you party are amazing.",
+                "created_at": "2020-06-10"
+            },
+            {
+                "id": "3",
+                "avatar": "https://graph.facebook.com/v2.9/10210714770444935/picture?type=square&height=64&width=64",
+                "name": "Ana",
+                "comment": "The service at Sir Joan is just wonderful. Such a nice team! The standard bedrooms are small and with no view and that was what I found less interesting.",
+                "created_at": "2020-07-12"
+            },
+            {
+                "id": "4",
+                "avatar": "https://cf.bstatic.com/static/img/review/avatars/ava-v/b56c632712cb151966e9192b3547e7b673216aa6.png",
+                "name": "Valerie",
+                "comment": "I was impressed with the outstanding customer service! From the first person till the last were so friendly at all times. I travel a lot and I have never experienced that level before.",
+                "created_at": "2020-08-01"
+            },
+            {
+                "id": "5",
+                "avatar": "https://cf.bstatic.com/static/img/review/avatars/ava-o/ecc2e23c1dd875ae18fc261d4a08d35f71db9440.png",
+                "name": "Olivia",
+                "comment": "Everything. Beautiful room with a stunning view of Ibiza old town. We were totally spoilt when we got there. Loved having the Bluetooth B&O speaker & mini library in the room.",
+                "created_at": "2020-08-12"
+            }
+        ],
+        "rooms": [
+            {
+                "id": "1",
+                "name": "Kamar Standard Double",
+                "bed": "1 queen bed",
+                "description": "Harga adalah per suite per 9 malam Termasuk: PPN 10%",
+                "price": 80,
+                "facilities": [
+                    "Perlengkapan mandi gratis",
+                    "Mandi",
+                    "Aman",
+                    "Bidet",
+                    "Toilet",
+                    "Handuk",
+                    "Linens",
+                    "Meja tulis",
+                    "TV",
+                    "Pemanas Air",
+                    "Pengering rambut",
+                    "Ketel listrik"
+                ]
+            }
+        ],
+        "facilities": [
+            {
+                "name": "Swimming Pool",
+                "icon": "swim"
+            },
+            {
+                "name": "Kamar bebas rokok",
+                "icon": "no_smoking"
+            },
+            {
+                "name": "Parking Area",
+                "icon": "parking"
+            },
+            {
+                "name": "Sarapan",
+                "icon": "breakfast"
+            },
+            {
+                "name": "WiFi di semua area",
+                "icon": "wifi"
+            }
+        ],
+        "description": "Located in Ibiza Town, 400 m from Pacha, Sir Joan Hotel features air-conditioned rooms with free WiFi throughout the property. Guests can enjoy the on-site bar and outdoor pool.\nAll rooms include a flat-screen TV. Certain units include a seating area where you can relax. Enjoy a cup of coffee from your terrace or balcony. The rooms come with a private bathroom fitted with a Mandi. Extras include bathrobes, slippers and Perlengkapan mandi gratis.\nYou will find a 24-hour front desk at the property. An à la carte breakfast is available from November to March for an extra cost.\nThe hotel also offers bike hire. Marina Botafoch is 400 m from Sir Joan Hotel, while Dalt Vila is 400 m from the property. The nearest airport is Ibiza Airport, 5 mi from Sir Joan Hotel.\nCouples in particular like the location – they rated it 8.7 for a two-person trip.\nWe speak your language!",
+        "latitude": 40.058850,
+        "longitude": -3.594310
+    },
+    {
+        "id": "4",
+        "name": "Emblemático San Agustin",
+        "location": "Icod de los Vinos",
+        "full_location": "San Agustín, 18, 38430 Icod de los Vinos, Spain",
+        "price": 110,
+        "discount_price": 160,
+        "discount_text": "12% off",
+        "rating": "4.1",
+        "thumbnail": "https://cf.bstatic.com/images/hotel/max1280x900/197/19771223.jpg",
+        "pictures": [
+            {
+                "id": "1",
+                "url": "https://cf.bstatic.com/images/hotel/max1280x900/197/19771079.jpg",
+                "caption": "Lorem ipsum dolor sit amet"
+            },
+            {
+                "id": "2",
+                "url": "https://cf.bstatic.com/images/hotel/max1280x900/197/19773711.jpg",
+                "caption": "consectetur adipiscing elit"
+            },
+            {
+                "id": "3",
+                "url": "https://cf.bstatic.com/images/hotel/max1280x900/114/114959184.jpg",
+                "caption": "sed do eiusmod tempor incididunt"
+            },
+            {
+                "id": "4",
+                "url": "https://cf.bstatic.com/images/hotel/max1280x900/197/19773248.jpg",
+                "caption": "ut labore et dolore magna aliqua"
+            },
+            {
+                "id": "5",
+                "url": "https://cf.bstatic.com/images/hotel/max1280x900/197/19771051.jpg",
+                "caption": "Ut enim ad minim veniam"
+            }
+        ],
+        "reviews": [
+            {
+                "id": "1",
+                "avatar": "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png",
+                "name": "Sulaiman",
+                "comment": "One of the beat hotel experiences ever! The staff at the hotel made it a very pleasant stay with their smile since we arrived until we left.",
+                "created_at": "2020-05-21"
+            },
+            {
+                "id": "2",
+                "avatar": "https://graph.facebook.com/v2.9/520215322/picture?type=square&height=64&width=64",
+                "name": "Korab",
+                "comment": "The restaurant Izakaya by far is one of the best in Ibiza. And also The Butcher burgers and milkshakes after you party are amazing.",
+                "created_at": "2020-06-10"
+            },
+            {
+                "id": "3",
+                "avatar": "https://graph.facebook.com/v2.9/10210714770444935/picture?type=square&height=64&width=64",
+                "name": "Ana",
+                "comment": "The service at Sir Joan is just wonderful. Such a nice team! The standard bedrooms are small and with no view and that was what I found less interesting.",
+                "created_at": "2020-07-12"
+            },
+            {
+                "id": "4",
+                "avatar": "https://cf.bstatic.com/static/img/review/avatars/ava-v/b56c632712cb151966e9192b3547e7b673216aa6.png",
+                "name": "Valerie",
+                "comment": "I was impressed with the outstanding customer service! From the first person till the last were so friendly at all times. I travel a lot and I have never experienced that level before.",
+                "created_at": "2020-08-01"
+            },
+            {
+                "id": "5",
+                "avatar": "https://cf.bstatic.com/static/img/review/avatars/ava-o/ecc2e23c1dd875ae18fc261d4a08d35f71db9440.png",
+                "name": "Olivia",
+                "comment": "Everything. Beautiful room with a stunning view of Ibiza old town. We were totally spoilt when we got there. Loved having the Bluetooth B&O speaker & mini library in the room.",
+                "created_at": "2020-08-12"
+            }
+        ],
+        "rooms": [
+            {
+                "id": "1",
+                "name": "Kamar Standard Double",
+                "bed": "1 queen bed",
+                "description": "Harga adalah per suite per 9 malam Termasuk: PPN 10%",
+                "price": 80,
+                "facilities": [
+                    "Perlengkapan mandi gratis",
+                    "Mandi",
+                    "Aman",
+                    "Bidet",
+                    "Toilet",
+                    "Handuk",
+                    "Linens",
+                    "Meja tulis",
+                    "TV",
+                    "Pemanas Air",
+                    "Pengering rambut",
+                    "Ketel listrik"
+                ]
+            }
+        ],
+        "facilities": [
+            {
+                "name": "Swimming Pool",
+                "icon": "swim"
+            },
+            {
+                "name": "Kamar bebas rokok",
+                "icon": "no_smoking"
+            },
+            {
+                "name": "Parking Area",
+                "icon": "parking"
+            },
+            {
+                "name": "Sarapan",
+                "icon": "breakfast"
+            },
+            {
+                "name": "WiFi di semua area",
+                "icon": "wifi"
+            }
+        ],
+        "description": "Located in Ibiza Town, 400 m from Pacha, Sir Joan Hotel features air-conditioned rooms with free WiFi throughout the property. Guests can enjoy the on-site bar and outdoor pool.\nAll rooms include a flat-screen TV. Certain units include a seating area where you can relax. Enjoy a cup of coffee from your terrace or balcony. The rooms come with a private bathroom fitted with a Mandi. Extras include bathrobes, slippers and Perlengkapan mandi gratis.\nYou will find a 24-hour front desk at the property. An à la carte breakfast is available from November to March for an extra cost.\nThe hotel also offers bike hire. Marina Botafoch is 400 m from Sir Joan Hotel, while Dalt Vila is 400 m from the property. The nearest airport is Ibiza Airport, 5 mi from Sir Joan Hotel.\nCouples in particular like the location – they rated it 8.7 for a two-person trip.\nWe speak your language!",
+        "latitude": 1.879120,
+        "longitude": -76.268590
+    },
+    {
+        "id": "5",
+        "name": "Sol Tenerife",
+        "location": "Playa de las Americas",
+        "full_location": "Avenida Rafael Puig Lliviana, s/n, 38660 Playa de las Americas, Spain",
+        "price": 200,
+        "discount_price": 380,
+        "discount_text": "18% off",
+        "rating": "4.9",
+        "thumbnail": "https://cf.bstatic.com/images/hotel/max1280x900/411/41155952.jpg",
+        "pictures": [
+            {
+                "id": "1",
+                "url": "https://cf.bstatic.com/images/hotel/max1280x900/123/12364012.jpg",
+                "caption": "Lorem ipsum dolor sit amet"
+            },
+            {
+                "id": "2",
+                "url": "https://cf.bstatic.com/images/hotel/max1280x900/411/41155953.jpg",
+                "caption": "consectetur adipiscing elit"
+            },
+            {
+                "id": "3",
+                "url": "https://cf.bstatic.com/images/hotel/max1280x900/411/41157134.jpg",
+                "caption": "sed do eiusmod tempor incididunt"
+            },
+            {
+                "id": "4",
+                "url": "https://cf.bstatic.com/images/hotel/max1280x900/411/41155954.jpg",
+                "caption": "ut labore et dolore magna aliqua"
+            },
+            {
+                "id": "5",
+                "url": "https://cf.bstatic.com/images/hotel/max1280x900/123/12364040.jpg",
+                "caption": "Ut enim ad minim veniam"
+            }
+        ],
+        "reviews": [
+            {
+                "id": "1",
+                "avatar": "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png",
+                "name": "Sulaiman",
+                "comment": "One of the beat hotel experiences ever! The staff at the hotel made it a very pleasant stay with their smile since we arrived until we left.",
+                "created_at": "2020-05-21"
+            },
+            {
+                "id": "2",
+                "avatar": "https://graph.facebook.com/v2.9/520215322/picture?type=square&height=64&width=64",
+                "name": "Korab",
+                "comment": "The restaurant Izakaya by far is one of the best in Ibiza. And also The Butcher burgers and milkshakes after you party are amazing.",
+                "created_at": "2020-06-10"
+            },
+            {
+                "id": "3",
+                "avatar": "https://graph.facebook.com/v2.9/10210714770444935/picture?type=square&height=64&width=64",
+                "name": "Ana",
+                "comment": "The service at Sir Joan is just wonderful. Such a nice team! The standard bedrooms are small and with no view and that was what I found less interesting.",
+                "created_at": "2020-07-12"
+            },
+            {
+                "id": "4",
+                "avatar": "https://cf.bstatic.com/static/img/review/avatars/ava-v/b56c632712cb151966e9192b3547e7b673216aa6.png",
+                "name": "Valerie",
+                "comment": "I was impressed with the outstanding customer service! From the first person till the last were so friendly at all times. I travel a lot and I have never experienced that level before.",
+                "created_at": "2020-08-01"
+            },
+            {
+                "id": "5",
+                "avatar": "https://cf.bstatic.com/static/img/review/avatars/ava-o/ecc2e23c1dd875ae18fc261d4a08d35f71db9440.png",
+                "name": "Olivia",
+                "comment": "Everything. Beautiful room with a stunning view of Ibiza old town. We were totally spoilt when we got there. Loved having the Bluetooth B&O speaker & mini library in the room.",
+                "created_at": "2020-08-12"
+            }
+        ],
+        "rooms": [
+            {
+                "id": "1",
+                "name": "Kamar Standard Double",
+                "bed": "1 queen bed",
+                "description": "Harga adalah per suite per 9 malam Termasuk: PPN 10%",
+                "price": 80,
+                "facilities": [
+                    "Perlengkapan mandi gratis",
+                    "Mandi",
+                    "Aman",
+                    "Bidet",
+                    "Toilet",
+                    "Handuk",
+                    "Linens",
+                    "Meja tulis",
+                    "TV",
+                    "Pemanas Air",
+                    "Pengering rambut",
+                    "Ketel listrik"
+                ]
+            }
+        ],
+        "facilities": [
+            {
+                "name": "Swimming Pool",
+                "icon": "swim"
+            },
+            {
+                "name": "Kamar bebas rokok",
+                "icon": "no_smoking"
+            },
+            {
+                "name": "Parking Area",
+                "icon": "parking"
+            },
+            {
+                "name": "Sarapan",
+                "icon": "breakfast"
+            },
+            {
+                "name": "WiFi di semua area",
+                "icon": "wifi"
+            }
+        ],
+        "description": "Located in Ibiza Town, 400 m from Pacha, Sir Joan Hotel features air-conditioned rooms with free WiFi throughout the property. Guests can enjoy the on-site bar and outdoor pool.\nAll rooms include a flat-screen TV. Certain units include a seating area where you can relax. Enjoy a cup of coffee from your terrace or balcony. The rooms come with a private bathroom fitted with a Mandi. Extras include bathrobes, slippers and Perlengkapan mandi gratis.\nYou will find a 24-hour front desk at the property. An à la carte breakfast is available from November to March for an extra cost.\nThe hotel also offers bike hire. Marina Botafoch is 400 m from Sir Joan Hotel, while Dalt Vila is 400 m from the property. The nearest airport is Ibiza Airport, 5 mi from Sir Joan Hotel.\nCouples in particular like the location – they rated it 8.7 for a two-person trip.\nWe speak your language!",
+        "latitude": 40.4137818,
+        "longitude": -3.6921271
+    }
+]

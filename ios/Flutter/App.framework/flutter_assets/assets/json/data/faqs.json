@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Can i cancel my booking",
+        "content": "Yes – any cancellation fees are determined by the property and listed in your cancellation policy. You'll pay any additional costs to the property."
+    },
+    {
+        "title": "If I need to cancel my booking, will I pay a fee?",
+        "content": "If you have a free cancellation booking, you won't pay a cancellation fee. If your booking isn't free to cancel anymore or is non-refundable, you may incur a cancellation fee. Any cancellation fees are determined by the property, and you'll pay any additional costs to the property."
+    },
+    {
+        "title": "Who's going to charge my credit card and when?",
+        "content": "Generally, the property is responsible for charging your card. If payment is instead handled by Booking.com, this will be stated clearly in your booking confirmation.\nYou usually can expect to pay during check-in or check-out at the property. However, there are some exceptions, like properties that require a prepayment for all or some of the total amount. Again, this will be stated clearly in your confirmation and payment policies.\nIf there's no prepayment policy, it’s also possible that the property might take a test payment from your card before you stay. This is a temporary hold, that’s used to validate your card and guarantee your booking. Unlike a real charge, this test payment will be returned to your card."
+    },
+    {
+        "title": "Can I make changes to my booking (i.e. change dates)?",
+        "content": "Yes! You can make changes to your booking from your confirmation email or at Booking.com. Depending on the property's policy, you can do the following:\n\nChange check-in/out times\nChange dates\nCancel booking\nEdit credit card details\nChange guest details\nSelect bed type\nChange room type\nAdd a room\nAdd a meal\nMake a request\nContact the property"
+    },
+    {
+        "title": "I can't find my confirmation email. What should I do?",
+        "content": "Be sure to check your email inbox, spam, and junk folders. If you still can't find your confirmation, go to booking.com/help and we'll resend it to you."
+    },
+    {
+        "title": "Can I make a reservation without a credit card?",
+        "content": "You'll need a valid credit card to guarantee your reservation with most properties. However, we offer a number of hotels that will guarantee your booking without a card. You can also make a booking by using someone else’s card, provided you have their permission. In this case, confirm the card holder’s name and that you have permission to use their card in the 'Special requests' box when booking."
+    },
+    {
+        "title": "Why was I charged?",
+        "content": "The charge you see could be any one of the following:\nPre-authorization: A pre-authorization is just a validity check that temporarily blocks an amount roughly equivalent to the cost of your reservation on your credit card. The amount will be unblocked after a certain amount of time. How long this takes will depend on the property and your credit card provider.\nDeposit or prepayment: Some properties require a deposit or prepayment at the time of reservation. This policy is clearly highlighted during the reservation process, and you can see it in your confirmation email as well. If your reservation allows for free cancellation, this amount is returned to you if you choose to cancel it.\nOur Customer Service team is always there if you need help with a payment issue. You can go to booking.com/help to get in touch with us."
+    },
+    {
+        "title": "How do I find out if properties allow pets?",
+        "content": "Pet policies are always displayed on the property’s page under 'House rules.'"
+    }
+]
