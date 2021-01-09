@@ -268,7 +268,7 @@ class _RegisterUIState extends State<RegisterUI> {
                 inactiveFgColor: Colors.white,
                 labels: ["${lang.translate('screen.register.genderMaleHint')}", "${lang.translate('screen.register.genderFemaleHint')}"],
                 icons: [FontAwesomeIcons.mars, FontAwesomeIcons.venus],
-                activeBgColors: [Colors.blueAccent, Colors.pinkAccent],
+                activeBgColors: [primaryColor, femaleColor],
                 onToggle: (index) {
                   index == 0 ? _gender = Gender.Male : _gender = Gender.Female ;
                 },

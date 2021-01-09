@@ -27,8 +27,8 @@ class _SplashscreenUIState extends State<SplashscreenUI> {
         decoration: BoxDecoration(gradient: customGradient()),
         child: Center(
           child: Image.asset(
-            "assets/images/icons/hotel.png",
-            height: Sizes.s80,
+            "assets/images/icons/logo-septimalux.png",
+            height: Sizes.s450,
           ),
         ),
       ),

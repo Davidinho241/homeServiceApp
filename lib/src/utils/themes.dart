@@ -22,7 +22,7 @@ ThemeData buildThemeLight(context) {
     // card theme color, if currently light theme is active, set this to white
     cardTheme: CardTheme(color: Colors.white),
     // swatch color
-    primarySwatch: Colors.blue,
+    primarySwatch: Colors.deepPurple,
     visualDensity: VisualDensity.adaptivePlatformDensity,
     // text theme data, we'll use available data (ThemeData.light())
     textTheme: GoogleFonts.nunitoTextTheme(
@@ -78,11 +78,11 @@ LinearGradient customGradient() {
     // put your color here
     colors: [
       // first color of gradient
-      Colors.blue,
+      primaryColor60,
       // second color of gradient
-      Colors.blue[600],
+      primaryColor80,
       // third color of gradient
-      Colors.blue[900],
+      primaryColor,
     ],
   );
 }
@@ -92,9 +92,9 @@ LinearGradient chatGradient() {
     begin: Alignment.topLeft,
     end: Alignment.bottomRight,
     colors: [
-      Color(0xff2483f3),
-      Color(0xff4394F4),
-      Color(0xff5DA3F5),
+      primaryColor80,
+      primaryColor70,
+      primaryColor60,
     ],
   );
 }

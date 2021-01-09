@@ -4,7 +4,7 @@
             "appBar": "Register",
             "skip": "Skip",
             "title": "Create new account",
-            "subtitle": "Register your account now and get 150,000 points",
+            "subtitle": "Register your account now and experience the new tourism.",
             "firstNameHint": "First Name",
             "firstNameLabel": "First Name",
             "lastNameHint": "Last Name",
@@ -22,7 +22,9 @@
             "accountAlt": "Have an account? ",
             "loginButton": "Login",
             "genderMaleHint": "Male",
-            "genderFemaleHint": "Female"
+            "genderFemaleHint": "Female",
+            "searchCityHint": "Search",
+            "selectCityText": "Select your city"
         },
         "login": {
             "appBar": "Login",

@@ -10,7 +10,7 @@
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		8CdOjWVZqwIaYmU4+EAkGiCxxQ4=
+		glpp2XSJCu4L2ZIDqVHBQG17Pao=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>flutter_assets/NOTICES</key>
 		<data>
-		HdKkoxazoH8WXEcaFIs0YcL2b/g=
+		TXVK4hPZz8an74lmWEGnJ39U51g=
 		</data>
 		<key>flutter_assets/assets/images/icons/app_icon.png</key>
 		<data>
@@ -51,6 +51,10 @@
 		<key>flutter_assets/assets/images/icons/hotel.png</key>
 		<data>
 		NRfFntaG775VxfjGGTXPSrlgP7E=
+		</data>
+		<key>flutter_assets/assets/images/icons/logo-septimalux.png</key>
+		<data>
+		TMxAY0lr9u6EL2e67dei/+2WKgg=
 		</data>
 		<key>flutter_assets/assets/images/icons/mail.png</key>
 		<data>
@@ -142,7 +146,7 @@
 		</data>
 		<key>flutter_assets/assets/json/languages/en.json</key>
 		<data>
-		FNrmruoHYkKo3W6NtHAAIgAp4iU=
+		69C84fplcLFHgshmkHgd112UR0g=
 		</data>
 		<key>flutter_assets/assets/json/languages/fr.json</key>
 		<data>
@@ -158,7 +162,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		MDMGoLOjkIA6n3fBm5X8iIT7ouU=
+		rNvpQQD344ZCQcWPF0WyDUbyCrI=
 		</data>
 		<key>flutter_assets/packages/country_pickers/assets/ad.png</key>
 		<data>
@@ -1291,11 +1295,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8CdOjWVZqwIaYmU4+EAkGiCxxQ4=
+			glpp2XSJCu4L2ZIDqVHBQG17Pao=
 			</data>
 			<key>hash2</key>
 			<data>
-			ikYqDpr7AAxJCn/D9TLabZd3JHJo7lGrJNSioc8NdHc=
+			4Hh7PTiJTsvEuUZliPpdWdZGkwVsVHn9DEgOXV3Q/Fs=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -1313,11 +1317,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HdKkoxazoH8WXEcaFIs0YcL2b/g=
+			TXVK4hPZz8an74lmWEGnJ39U51g=
 			</data>
 			<key>hash2</key>
 			<data>
-			T8TrEVuu4eS9jS62KFrKxveZhDJSlA3Lnn83A5l8nSM=
+			a8ty34+58zF2bwr3Kb3AUeMqAOtJk2DP1nCN4j94SbY=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/images/icons/app_icon.png</key>
@@ -1406,6 +1410,17 @@
 			<key>hash2</key>
 			<data>
 			yvKBrNqwMRGXJooES0VTcWh+/UbyiI8GPamxt2Q7XX4=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/icons/logo-septimalux.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TMxAY0lr9u6EL2e67dei/+2WKgg=
+			</data>
+			<key>hash2</key>
+			<data>
+			1WxUn5jTDGAy0vrxtClwQtn6kk9YFRpfUuThZynkiFQ=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/images/icons/mail.png</key>
@@ -1654,11 +1669,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FNrmruoHYkKo3W6NtHAAIgAp4iU=
+			69C84fplcLFHgshmkHgd112UR0g=
 			</data>
 			<key>hash2</key>
 			<data>
-			i0MgipqH2F5MeNa717doUVzCRLucn+nvw6/ye02s4LU=
+			SqhsH1Eiy+mXinf0h8B2epBeHVhUCvIUDISh9zZnTqY=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/json/languages/fr.json</key>
@@ -1698,11 +1713,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MDMGoLOjkIA6n3fBm5X8iIT7ouU=
+			rNvpQQD344ZCQcWPF0WyDUbyCrI=
 			</data>
 			<key>hash2</key>
 			<data>
-			kcG+tm3dJ3Vql3V4tH6gEg8Hh7fttarZjAAEcT/vAa4=
+			Mt3bgeNrEQ4q3MfXHObyGaugrewRHVQXHfWE7iZHpCU=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/country_pickers/assets/ad.png</key>
