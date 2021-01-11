@@ -338,6 +338,12 @@
       "languageVersion": "2.7"
     },
     {
+      "name": "mvc_pattern",
+      "rootUri": "file:///Users/backenddeveloper03/.pub-cache/hosted/pub.dartlang.org/mvc_pattern-6.6.3+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
       "name": "nested",
       "rootUri": "file:///Users/backenddeveloper03/.pub-cache/hosted/pub.dartlang.org/nested-0.0.4",
       "packageUri": "lib/",
@@ -668,7 +674,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2021-01-08T17:02:22.243891Z",
+  "generated": "2021-01-11T15:44:26.499594Z",
   "generator": "pub",
   "generatorVersion": "2.11.0-213.0.dev"
 }

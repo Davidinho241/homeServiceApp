@@ -17,6 +17,8 @@ import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:dropdown_search/dropdown_search.dart';
 import 'package:hotel_ui_kit/src/utils/colors.dart';
 import 'package:hotel_ui_kit/src/utils/sizes.dart';
+import 'package:hotel_ui_kit/src/controllers/UserController.dart';
+import 'package:hotel_ui_kit/src/env/routes.dart';
 
 class RegisterUI extends StatefulWidget {
   @override
@@ -294,7 +296,7 @@ class _RegisterUIState extends State<RegisterUI> {
                     );
                     await Future.delayed(
                       Duration(milliseconds: 2500),
-                      () => Navigator.pop(context),
+                      () => UserController().register(Routes.REGISTER, ['David', 'KALLA', '655615620']),
                     );
                     showToast(_scaffoldKey, "Registration Successfuly");
                   },

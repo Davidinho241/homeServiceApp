@@ -23,58 +23,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd0297e-0dcf-4d92-8f8e-700a01722f6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/icons/logo-septimalux.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/fea9bbedf168fc2f0c970cd3eb551fd3/.filecache" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/fea9bbedf168fc2f0c970cd3eb551fd3/.filecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/fea9bbedf168fc2f0c970cd3eb551fd3/app.dill" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/fea9bbedf168fc2f0c970cd3eb551fd3/app.dill" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/fea9bbedf168fc2f0c970cd3eb551fd3/debug_ios_bundle_flutter_assets.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/fea9bbedf168fc2f0c970cd3eb551fd3/debug_ios_bundle_flutter_assets.stamp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/fea9bbedf168fc2f0c970cd3eb551fd3/flutter_assets.d" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/fea9bbedf168fc2f0c970cd3eb551fd3/flutter_assets.d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/fea9bbedf168fc2f0c970cd3eb551fd3/kernel_snapshot.d" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/fea9bbedf168fc2f0c970cd3eb551fd3/kernel_snapshot.d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/fea9bbedf168fc2f0c970cd3eb551fd3/kernel_snapshot.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/fea9bbedf168fc2f0c970cd3eb551fd3/kernel_snapshot.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/controllers/Controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/controllers/UserController.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/env/routes.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/models/User.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config_subset" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config_subset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" beforeDir="false" afterPath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/App" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/App" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/_CodeSignature/CodeResources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/NOTICES" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/NOTICES" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/assets/json/languages/en.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/assets/json/languages/en.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/kernel_blob.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/file_picker.framework/file_picker" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/file_picker.framework/file_picker" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/flutter_plugin_android_lifecycle.framework/flutter_plugin_android_lifecycle" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/flutter_plugin_android_lifecycle.framework/flutter_plugin_android_lifecycle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/flutter_webview_plugin.framework/flutter_webview_plugin" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/flutter_webview_plugin.framework/flutter_webview_plugin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/path_provider.framework/path_provider" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/path_provider.framework/path_provider" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/shared_preferences.framework/shared_preferences" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/shared_preferences.framework/shared_preferences" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/sqflite.framework/sqflite" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/sqflite.framework/sqflite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/url_launcher.framework/url_launcher" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/url_launcher.framework/url_launcher" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Runner" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/Runner" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/Runner.app/_CodeSignature/CodeResources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/file_picker/file_picker.framework/file_picker" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/file_picker/file_picker.framework/file_picker" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/flutter_plugin_android_lifecycle/flutter_plugin_android_lifecycle.framework/flutter_plugin_android_lifecycle" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/flutter_plugin_android_lifecycle/flutter_plugin_android_lifecycle.framework/flutter_plugin_android_lifecycle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/flutter_webview_plugin/flutter_webview_plugin.framework/flutter_webview_plugin" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/flutter_webview_plugin/flutter_webview_plugin.framework/flutter_webview_plugin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/path_provider/path_provider.framework/path_provider" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/path_provider/path_provider.framework/path_provider" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/shared_preferences/shared_preferences.framework/shared_preferences" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/shared_preferences/shared_preferences.framework/shared_preferences" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/sqflite/sqflite.framework/sqflite" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/sqflite/sqflite.framework/sqflite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/url_launcher/url_launcher.framework/url_launcher" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/Debug-iphonesimulator/url_launcher/url_launcher.framework/url_launcher" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/App" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/App" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/_CodeSignature/CodeResources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/NOTICES" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/NOTICES" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/assets/json/languages/en.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/assets/json/languages/en.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/kernel_blob.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/file_picker.framework/file_picker" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/file_picker.framework/file_picker" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/flutter_plugin_android_lifecycle.framework/flutter_plugin_android_lifecycle" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/flutter_plugin_android_lifecycle.framework/flutter_plugin_android_lifecycle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/flutter_webview_plugin.framework/flutter_webview_plugin" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/flutter_webview_plugin.framework/flutter_webview_plugin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/path_provider.framework/path_provider" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/path_provider.framework/path_provider" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/shared_preferences.framework/shared_preferences" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/shared_preferences.framework/shared_preferences" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/sqflite.framework/sqflite" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/sqflite.framework/sqflite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/url_launcher.framework/url_launcher" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Frameworks/url_launcher.framework/url_launcher" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Runner" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/Runner" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/build/ios/iphonesimulator/Runner.app/_CodeSignature/CodeResources" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/NOTICES" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/NOTICES" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/json/languages/en.json" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/json/languages/en.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/kernel_blob.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/src/screens/registration/RegisterUI.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/screens/registration/RegisterUI.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/screens/splashscreen/SplashscreenUI.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/screens/splashscreen/SplashscreenUI.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/utils/colors.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/utils/colors.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/utils/themes.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/utils/themes.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +47,12 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kgmWOKKR1gyGqHIVUFtWnOpmK0" />
@@ -132,11 +102,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser" timestamp="1610384295618">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser/0.25.1440.875@0.25.1440.875" timestamp="1610384295618" />
     <state x="408" y="190" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1608640692030">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -145,29 +120,33 @@
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="0" y="28" width="1440" height="872" key="AndroidCreateResourceDirectoryDialog/0.25.1440.875@0.25.1440.875" timestamp="1610186922735" />
-    <state width="1398" height="589" key="GridCell.Tab.0.bottom" timestamp="1610188756656">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="547" key="GridCell.Tab.0.bottom" timestamp="1610386965801">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state width="1398" height="589" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1610188756656" />
-    <state width="1398" height="236" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1606210534585" />
-    <state width="1398" height="589" key="GridCell.Tab.0.center" timestamp="1610188756655">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="547" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1610386965801" />
+    <state width="1398" height="547" key="GridCell.Tab.0.center" timestamp="1610386965800">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state width="1398" height="589" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1610188756655" />
-    <state width="1398" height="236" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1606210534584" />
-    <state width="1398" height="589" key="GridCell.Tab.0.left" timestamp="1610188756654">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="547" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1610386965800" />
+    <state width="1398" height="547" key="GridCell.Tab.0.left" timestamp="1610386965799">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state width="1398" height="589" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1610188756654" />
-    <state width="1398" height="236" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1606210534583" />
-    <state width="1398" height="589" key="GridCell.Tab.0.right" timestamp="1610188756655">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="547" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1610386965799" />
+    <state width="1398" height="547" key="GridCell.Tab.0.right" timestamp="1610386965800">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state width="1398" height="589" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1610188756655" />
-    <state width="1398" height="236" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1606210534584" />
+    <state width="1398" height="547" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1610386965800" />
     <state x="221" y="86" key="SettingsEditor" timestamp="1608378625270">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1608378625270" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1610189176898">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1610189176898" />
   </component>
 </project>
