@@ -1,16 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_icons/flutter_icons.dart';
-import 'package:hotel_ui_kit/src/helpers/currency.dart';
-import 'package:hotel_ui_kit/src/helpers/localization.dart';
-import 'package:hotel_ui_kit/src/helpers/navigation.dart';
-import 'package:hotel_ui_kit/src/utils/themes.dart';
-import 'package:hotel_ui_kit/src/models/BlogModel.dart';
-import 'package:hotel_ui_kit/src/models/BookingHistory.dart';
-import 'package:hotel_ui_kit/src/models/HotelModel.dart';
-import 'package:hotel_ui_kit/src/screens/referal/ReferalUI.dart';
-import 'package:hotel_ui_kit/src/utils/colors.dart';
-import 'package:hotel_ui_kit/src/utils/sizes.dart';
-import 'package:hotel_ui_kit/src/widgets/text_currency.dart';
+import 'package:home_service/src/helpers/currency.dart';
+import 'package:home_service/src/helpers/localization.dart';
+import 'package:home_service/src/helpers/navigation.dart';
+import 'package:home_service/src/utils/themes.dart';
+import 'package:home_service/src/models/BlogModel.dart';
+import 'package:home_service/src/models/BookingHistory.dart';
+import 'package:home_service/src/models/HotelModel.dart';
+import 'package:home_service/src/utils/colors.dart';
+import 'package:home_service/src/utils/sizes.dart';
+import 'package:home_service/src/widgets/text_currency.dart';
 import 'package:shimmer/shimmer.dart';
 import 'buttons.dart';
 import 'chips.dart';
@@ -1047,94 +1046,6 @@ class BestOfferCardLoader extends StatelessWidget {
             ],
           ),
         ),
-      ),
-    );
-  }
-}
-
-// Used at HomeUI
-class InvitationCards extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    var lang = AppLocalizations.of(context);
-    return Card(
-      margin: EdgeInsets.only(left: Sizes.s20, right: Sizes.s20),
-      elevation: 3,
-      shadowColor: primaryColor.withOpacity(.4),
-      shape: RoundedRectangleBorder(
-        borderRadius: BorderRadius.all(
-          Radius.circular(Sizes.s10),
-        ),
-      ),
-      child: Row(
-        mainAxisAlignment: MainAxisAlignment.start,
-        crossAxisAlignment: CrossAxisAlignment.center,
-        children: <Widget>[
-          Container(
-            margin: EdgeInsets.only(left: Sizes.s10, right: Sizes.s10),
-            width: Sizes.s100,
-            height: Sizes.s80,
-            decoration: BoxDecoration(
-              image: DecorationImage(
-                image: ExactAssetImage(
-                  "assets/images/misc/receptionist.png",
-                ),
-                fit: BoxFit.contain,
-              ),
-            ),
-          ),
-          Expanded(
-            flex: 1,
-            child: Padding(
-              padding: const EdgeInsets.all(8.0),
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: <Widget>[
-                  RichText(
-                    text: TextSpan(
-                      text: '',
-                      style: TextStyle(
-                        fontSize: FontSize.s14,
-                        color: Theme.of(context).textTheme.subtitle1.color,
-                      ),
-                      children: <TextSpan>[
-                        TextSpan(
-                          text:
-                              "${lang.translate('widget.card.invitationText1')} ",
-                          style: TextStyle(
-                            fontSize: FontSize.s13,
-                          ),
-                        ),
-                        TextSpan(
-                          text:
-                              "${lang.translate('widget.card.invitationText2')}",
-                          style: TextStyle(
-                            fontSize: FontSize.s13,
-                            fontWeight: FontWeight.bold,
-                          ),
-                        ),
-                      ],
-                    ),
-                  ),
-                  SizedBox(
-                    height: Sizes.s5,
-                  ),
-                  Align(
-                      alignment: Alignment.bottomRight,
-                      child: Container(
-                        width: Sizes.s100,
-                        child: GradientButton(
-                          title:
-                              "${lang.translate('widget.card.invitationButton')}",
-                          onTap: () => openPage(context, ReferalUI()),
-                          fontSize: FontSize.s12,
-                        ),
-                      ))
-                ],
-              ),
-            ),
-          ),
-        ],
       ),
     );
   }

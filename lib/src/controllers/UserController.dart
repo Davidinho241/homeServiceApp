@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'Controller.dart';
 import 'package:http/http.dart' as http;
-import 'package:hotel_ui_kit/src/models/User.dart';
+import 'package:home_service/src/models/User.dart';
 
 class UserController extends Controller{
 

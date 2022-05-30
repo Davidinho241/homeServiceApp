@@ -1,7 +1,7 @@
 import 'package:equatable/equatable.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:hotel_ui_kit/src/services/prefs_service.dart';
+import 'package:home_service/src/services/prefs_service.dart';
 
 class ThemeState extends Equatable {
   final ThemeMode themeMode;

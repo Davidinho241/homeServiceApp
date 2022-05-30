@@ -3,22 +3,21 @@ import 'package:country_pickers/country.dart';
 import 'package:country_pickers/country_picker_dialog.dart';
 import 'package:country_pickers/utils/utils.dart';
 import 'package:flutter_icons/flutter_icons.dart';
-import 'package:hotel_ui_kit/src/helpers/localization.dart';
-import 'package:hotel_ui_kit/src/helpers/modal.dart';
-import 'package:hotel_ui_kit/src/helpers/navigation.dart';
-import 'package:hotel_ui_kit/src/helpers/toast.dart';
-import 'package:hotel_ui_kit/src/screens/dashboard/DashboardUI.dart';
-import 'package:hotel_ui_kit/src/screens/login/LoginUI.dart';
-import 'package:hotel_ui_kit/src/utils/sizes.dart';
-import 'package:hotel_ui_kit/src/widgets/buttons.dart';
-import 'package:hotel_ui_kit/src/widgets/inputs.dart';
+import 'package:home_service/src/helpers/localization.dart';
+import 'package:home_service/src/helpers/modal.dart';
+import 'package:home_service/src/helpers/navigation.dart';
+import 'package:home_service/src/helpers/toast.dart';
+import 'package:home_service/src/screens/home/HomeUI.dart';
+import 'package:home_service/src/screens/login/LoginUI.dart';
+import 'package:home_service/src/utils/sizes.dart';
+import 'package:home_service/src/widgets/buttons.dart';
+import 'package:home_service/src/widgets/inputs.dart';
 import 'package:toggle_switch/toggle_switch.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:dropdown_search/dropdown_search.dart';
-import 'package:hotel_ui_kit/src/utils/colors.dart';
-import 'package:hotel_ui_kit/src/utils/sizes.dart';
-import 'package:hotel_ui_kit/src/controllers/UserController.dart';
-import 'package:hotel_ui_kit/src/env/routes.dart';
+import 'package:home_service/src/utils/colors.dart';
+import 'package:home_service/src/controllers/UserController.dart';
+import 'package:home_service/src/env/routes.dart';
 
 class RegisterUI extends StatefulWidget {
   @override
@@ -92,7 +91,7 @@ class _RegisterUIState extends State<RegisterUI> {
         actions: <Widget>[
           FlatButton(
             color: Colors.transparent,
-            onPressed: () => openRemovePage(context, DashboardUI()),
+            onPressed: () => openRemovePage(context, HomeUI()),
             child: Text(
               "${lang.translate('screen.register.skip')}",
               style: TextStyle(

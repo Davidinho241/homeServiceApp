@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:hotel_ui_kit/src/helpers/localization.dart';
-import 'package:hotel_ui_kit/src/helpers/modal.dart';
-import 'package:hotel_ui_kit/src/utils/sizes.dart';
-import 'package:hotel_ui_kit/src/widgets/buttons.dart';
-import 'package:hotel_ui_kit/src/widgets/inputs.dart';
+import 'package:home_service/src/helpers/localization.dart';
+import 'package:home_service/src/helpers/modal.dart';
+import 'package:home_service/src/utils/sizes.dart';
+import 'package:home_service/src/widgets/buttons.dart';
+import 'package:home_service/src/widgets/inputs.dart';
 
 class ResetPasswordUI extends StatefulWidget {
   @override

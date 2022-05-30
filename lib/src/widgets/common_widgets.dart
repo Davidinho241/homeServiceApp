@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:hotel_ui_kit/src/utils/themes.dart';
-import 'package:hotel_ui_kit/src/models/HotelModel.dart';
-import 'package:hotel_ui_kit/src/utils/colors.dart';
-import 'package:hotel_ui_kit/src/utils/sizes.dart';
+import 'package:home_service/src/utils/themes.dart';
+import 'package:home_service/src/models/HotelModel.dart';
+import 'package:home_service/src/utils/colors.dart';
+import 'package:home_service/src/utils/sizes.dart';
 import 'package:intl/intl.dart';
 import 'package:smooth_star_rating/smooth_star_rating.dart';
 

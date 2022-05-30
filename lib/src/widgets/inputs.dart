@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:hotel_ui_kit/src/utils/colors.dart';
-import 'package:hotel_ui_kit/src/utils/sizes.dart';
+import 'package:home_service/src/utils/colors.dart';
+import 'package:home_service/src/utils/sizes.dart';
 
 class SearchOptionTextField extends StatelessWidget {
   final TextEditingController controller;

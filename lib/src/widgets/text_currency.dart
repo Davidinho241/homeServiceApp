@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:hotel_ui_kit/src/helpers/currency.dart';
-import 'package:hotel_ui_kit/src/utils/sizes.dart';
+import 'package:home_service/src/helpers/currency.dart';
+import 'package:home_service/src/utils/sizes.dart';
 
 class TextCurrency extends StatelessWidget {
   final String price;

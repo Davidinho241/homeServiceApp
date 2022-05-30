@@ -1,8 +1,8 @@
 import 'package:country_pickers/utils/utils.dart';
 import 'package:flutter/material.dart';
-import 'package:hotel_ui_kit/src/utils/themes.dart';
-import 'package:hotel_ui_kit/src/models/CountryOptionModel.dart';
-import 'package:hotel_ui_kit/src/utils/sizes.dart';
+import 'package:home_service/src/utils/themes.dart';
+import 'package:home_service/src/models/CountryOptionModel.dart';
+import 'package:home_service/src/utils/sizes.dart';
 
 class CountryTile extends StatelessWidget {
   final CountryOption countryOption;

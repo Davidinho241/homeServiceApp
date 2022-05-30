@@ -1,13 +1,13 @@
 import 'dart:convert';
 
 import 'package:flutter/services.dart';
-import 'package:hotel_ui_kit/src/models/BlogModel.dart';
-import 'package:hotel_ui_kit/src/models/BookingHistory.dart';
-import 'package:hotel_ui_kit/src/models/FaqModel.dart';
-import 'package:hotel_ui_kit/src/models/HotelModel.dart';
-import 'package:hotel_ui_kit/src/models/NotificationModel.dart';
-import 'package:hotel_ui_kit/src/models/PlaceModel.dart';
-import 'package:hotel_ui_kit/src/models/PromoModel.dart';
+import 'package:home_service/src/models/BlogModel.dart';
+import 'package:home_service/src/models/BookingHistory.dart';
+import 'package:home_service/src/models/FaqModel.dart';
+import 'package:home_service/src/models/HotelModel.dart';
+import 'package:home_service/src/models/NotificationModel.dart';
+import 'package:home_service/src/models/PlaceModel.dart';
+import 'package:home_service/src/models/PromoModel.dart';
 
 class LocalService {
   static Future<List<Hotel>> loadHotels(bool hold) async {

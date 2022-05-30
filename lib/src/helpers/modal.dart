@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:hotel_ui_kit/src/models/SelectedDataModel.dart';
-import 'package:hotel_ui_kit/src/utils/colors.dart';
-import 'package:hotel_ui_kit/src/utils/sizes.dart';
-import 'package:hotel_ui_kit/src/widgets/buttons.dart';
+import 'package:home_service/src/models/SelectedDataModel.dart';
+import 'package:home_service/src/utils/colors.dart';
+import 'package:home_service/src/utils/sizes.dart';
+import 'package:home_service/src/widgets/buttons.dart';
 
 import 'localization.dart';
 

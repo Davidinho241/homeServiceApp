@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:hotel_ui_kit/src/helpers/navigation.dart';
-import 'package:hotel_ui_kit/src/utils/themes.dart';
-import 'package:hotel_ui_kit/src/screens/localization/LocalizationUI.dart';
-import 'package:hotel_ui_kit/src/utils/sizes.dart';
+import 'package:home_service/src/helpers/navigation.dart';
+import 'package:home_service/src/utils/themes.dart';
+import 'package:home_service/src/screens/localization/LocalizationUI.dart';
+import 'package:home_service/src/utils/sizes.dart';
 
 class SplashscreenUI extends StatefulWidget {
   @override

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:hotel_ui_kit/src/utils/colors.dart';
+import 'package:home_service/src/utils/colors.dart';
 
 ThemeData buildThemeLight(context) {
   return ThemeData(
@@ -58,7 +58,7 @@ ThemeData buildThemeDark(context) {
 BoxShadow customShadow() {
   return BoxShadow(
     /// color params is used to set shadow color
-    /// you can use your own color, for example you can set color to Colors.green.withOpacity(0.5)
+    /// you can use your own color, for dksoft237 you can set color to Colors.green.withOpacity(0.5)
     color: primaryColor.withOpacity(0.2),
     // the spread radius of shadow
     spreadRadius: 1,

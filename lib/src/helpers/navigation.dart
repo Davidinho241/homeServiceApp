@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:hotel_ui_kit/src/screens/webview/WebviewUI.dart';
 
 openPage(BuildContext context, Widget page) {
   Navigator.push(
@@ -17,17 +16,5 @@ openRemovePage(BuildContext context, Widget page) {
       builder: (context) => page,
     ),
     (Route<dynamic> route) => false,
-  );
-}
-
-openWebView(BuildContext context, String title, String url) {
-  Navigator.push(
-    context,
-    MaterialPageRoute(
-      builder: (context) => WebviewUI(
-        url: "$url",
-        title: "$title",
-      ),
-    ),
   );
 }

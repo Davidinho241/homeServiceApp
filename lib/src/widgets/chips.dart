@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:hotel_ui_kit/src/utils/sizes.dart';
+import 'package:home_service/src/utils/sizes.dart';
 
 // Used at DetailUI & Cards
 class CustomChip extends StatelessWidget {

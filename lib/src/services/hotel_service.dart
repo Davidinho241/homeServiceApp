@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:flutter/services.dart';
-import 'package:hotel_ui_kit/src/models/HotelModel.dart';
+import 'package:home_service/src/models/HotelModel.dart';
 
 class HotelService {
   Future<List<Hotel>> loadHotels() async {

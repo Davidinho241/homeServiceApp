@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "141071055251",
+    "project_id": "homeservice-dksoft",
+    "storage_bucket": "homeservice-dksoft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141071055251:android:81ea209527c5cf00021066",
+        "android_client_info": {
+          "package_name": "com.dksoft237.home_service"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141071055251-79hmfioo93pn1ah5gghbrk62j7crkcgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFYJGvuBWaeyIO-zKsY_PTCxK-hWiP0CU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141071055251-79hmfioo93pn1ah5gghbrk62j7crkcgu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "141071055251-8e4rs737d30c6cni91rgsasa71e0bhs2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hotelUiKit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

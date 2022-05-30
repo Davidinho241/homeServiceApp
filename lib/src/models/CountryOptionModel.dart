@@ -1,5 +1,5 @@
 import 'package:country_pickers/country.dart';
-import 'package:hotel_ui_kit/src/blocs/language.bloc.dart';
+import 'package:home_service/src/blocs/language.bloc.dart';
 
 class CountryOption {
   Country country;
